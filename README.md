@@ -2,7 +2,7 @@
 
 ## Olá 👋
 
-Sou o Rodrigo, colaborador oficial do projeto Portugol Studio, na produção de materiais de ensino.
+Sou o Rodrigo, colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
 Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
 - :hammer: Trabalhando no desenvolvimento de um pacote R com dados geoespaciais do município de Bagé-RS.
