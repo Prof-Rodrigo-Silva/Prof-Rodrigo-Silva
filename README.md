@@ -15,15 +15,15 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 ## Materiais de Aula :books: :mortar_board:
 
-### Curso Lógica de Progamação com PortugolStudio
+### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
 - [Aulas](https://youtu.be/ECxkjvIVbkc)
 
-### Exercícios com PortugolStudio
+### Exercícios com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio)
 - [Aulas](https://youtu.be/rAbaMaoBURc)
 
-### Exercícios Ambiante Gráfico com PortugolStudio
+### Exercícios Ambiante Gráfico com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio-AmbienteGrafico)
 - [Aulas](https://youtu.be/l5nhQFM4F2I)
 
