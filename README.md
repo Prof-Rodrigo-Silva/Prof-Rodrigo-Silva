@@ -27,3 +27,17 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio-AmbienteGrafico)
 - [Aulas](https://youtu.be/l5nhQFM4F2I)
 
+### R (Muita Coisa :scream: )
+- [Material](https://github.com/Prof-Rodrigo-Silva/ScriptR)
+- [R - Básico](https://youtu.be/854XZlr0VKI)
+- [R - Intermediários](https://youtu.be/gW-rWGq06d0)
+- [R - Avançado](https://youtu.be/PSsP1TSKmaA)
+- [R - Joins](https://youtu.be/iMdHyXaFtq4)
+- [R - Básico de Gráficos](https://youtu.be/RmpocgKpSjU)
+- [R - Básico de Mapas](https://youtu.be/cYqn5kaN_GI)
+- [R - geobr()](https://youtu.be/BZ0NQrq3GV4)
+
+### WEKA
+- [Material](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
+- [WEKA](https://youtu.be/xtCuV92YdG4)
+- [Filtrons do WEKA](https://youtu.be/y0jUFFBPSos)
