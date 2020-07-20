@@ -12,3 +12,9 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prof-Rodrigo-Silva)](https://github.com/Prof-Rodrigo-Silva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profrodrigorosadasilva@gmail.com)](mailto:profrodrigorosadasilva@gmail.com)
+
+## Materiais de Aula
+
+# Curso Lógica de Progamação
+[Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
+[Aulas](https://youtu.be/ECxkjvIVbkc)
