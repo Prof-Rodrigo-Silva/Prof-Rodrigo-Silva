@@ -15,6 +15,6 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 ## Materiais de Aula
 
-# Curso Lógica de Progamação
-[Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
-[Aulas](https://youtu.be/ECxkjvIVbkc)
+### Curso Lógica de Progamação
+- [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
+- [Aulas](https://youtu.be/ECxkjvIVbkc)
