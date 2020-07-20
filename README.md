@@ -40,4 +40,4 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 ### WEKA
 - [Material](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
 - [WEKA](https://youtu.be/xtCuV92YdG4)
-- [Filtrons do WEKA](https://youtu.be/y0jUFFBPSos)
+- [Filtros do WEKA](https://youtu.be/y0jUFFBPSos)
