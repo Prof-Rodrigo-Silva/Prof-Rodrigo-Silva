@@ -28,7 +28,7 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - [Aulas](https://youtu.be/l5nhQFM4F2I)
 
 ### R (Muita Coisa :scream: )
-- [Material](https://github.com/Prof-Rodrigo-Silva/ScriptR)
+- [Materiais](https://github.com/Prof-Rodrigo-Silva/ScriptR)
 - [Aulas R - Básico](https://youtu.be/854XZlr0VKI)
 - [Aulas R - Intermediários](https://youtu.be/gW-rWGq06d0)
 - [Aulas R - Avançado](https://youtu.be/PSsP1TSKmaA)
@@ -38,6 +38,6 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - [Aulas R - geobr()](https://youtu.be/BZ0NQrq3GV4)
 
 ### WEKA
-- [Material](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
+- [Materiais](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
 - [Aulas WEKA](https://youtu.be/xtCuV92YdG4)
 - [Aulas Filtros do WEKA](https://youtu.be/y0jUFFBPSos)
