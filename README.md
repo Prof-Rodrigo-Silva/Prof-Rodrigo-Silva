@@ -15,6 +15,9 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profrodrigorosadasilva@gmail.com)](mailto:profrodrigorosadasilva@gmail.com)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ## Materiais de Aula :books: :mortar_board:
 
 ### Curso Lógica de Progamação com Portugol Studio
