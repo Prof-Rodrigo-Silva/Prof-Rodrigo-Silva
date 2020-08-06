@@ -2,6 +2,9 @@
 
 ## Olá 👋
 
+<a href="https://github.com/Prof-Rodrigo-Silva?tab=repositories"><img src="https://badges.frapsoft.com/os/v2/open-source.svg?v=103"/></a>
+<img src="http://views.whatilearened.today/views/github/Prof-Rodrigo-Silva/views.svg"/>
+
 Sou o Rodrigo, colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
 Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
