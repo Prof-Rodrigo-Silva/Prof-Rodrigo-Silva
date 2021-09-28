@@ -9,6 +9,8 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
 - :hammer: Trabalhando no desenvolvimento de um pacote R com dados geoespaciais do município de Bagé-RS.
 - :hammer: Trabalhando no desenvolvimento de um aplicativo de Relatório Diário de Obras(RDO) para o município de Bagé-RS.
+- :hammer: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
+- :hammer: Aulas Técnico - Algoritmos I, Projeto de Software. 
 - :bulb: R, Dart, Flutter.
 - :mailbox: Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prof-Rodrigo-Silva)](https://github.com/Prof-Rodrigo-Silva)
