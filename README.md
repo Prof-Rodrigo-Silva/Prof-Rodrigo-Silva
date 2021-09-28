@@ -20,6 +20,9 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 ## Materiais de Aula :books: :mortar_board:
 
+### Notas de Aulas - POO com JAVA
+- [Códigos de Aulas]()
+
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
 - [Aulas](https://youtu.be/ECxkjvIVbkc)
