@@ -11,7 +11,7 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - :hammer: Trabalhando no desenvolvimento de um aplicativo de Relatório Diário de Obras(RDO) para o município de Bagé-RS.
 - :hammer: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
 - :hammer: Aulas Técnico - Algoritmos I, Projeto de Software. 
-- :bulb: R, Dart, Flutter.
+- :bulb: JAVA, R, Dart, Flutter.
 - :mailbox: Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prof-Rodrigo-Silva)](https://github.com/Prof-Rodrigo-Silva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
