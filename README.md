@@ -24,7 +24,7 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 ## Materiais de Aula :books: :mortar_board:
 
 ### Notas de Aulas - Algoritmos I
-- [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
+- [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasAlgoritmosI)
 
 ### Notas de Aulas - POO com JAVA
 - [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
