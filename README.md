@@ -28,6 +28,7 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 
 ### Notas de Aulas - POO com JAVA
 - [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
+- [Exercícios Lista 1](https://github.com/Prof-Rodrigo-Silva/ListaExercicios1POO)
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
