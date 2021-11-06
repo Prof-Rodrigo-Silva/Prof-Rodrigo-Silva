@@ -2,8 +2,12 @@
 
 ## Olá 👋
 
-<img src="http://views.whatilearened.today/views/github/Prof-Rodrigo-Silva/views.svg"/> <a href="https://github.com/Prof-Rodrigo-Silva/"><img src="https://img.shields.io/github/followers/Prof-Rodrigo-Silva?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a> <img src="https://img.shields.io/badge/Back End-Java/R/Dart-f55247"/>
-
+<div align="center">
+  <a href="https://github.com/Prof-Rodrigo-Silva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prof-Rodrigo-Silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&layout=compact&langs_count=7&theme=radical"/>
+</div>
+##
 Sou o Rodrigo, colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
 Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
