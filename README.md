@@ -1,14 +1,16 @@
 # :computer: Rodrigo Silva
 
-## Olá 👋
+## Olá 👋, sou o Rodrigo!
 
 <div align="center">
   <a href="https://github.com/Prof-Rodrigo-Silva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prof-Rodrigo-Silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&layout=compact&langs_count=7&theme=radical"/>
 </div>
-##
-Sou o Rodrigo, colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
+
+  ##
+
+  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
 Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
 - :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
 - :hammer: Trabalhando no desenvolvimento de um pacote R com dados geoespaciais do município de Bagé-RS.
@@ -21,9 +23,6 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profrodrigorosadasilva@gmail.com)](mailto:profrodrigorosadasilva@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://www.instagram.com/r_r_s_08/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&hide=PlpgSQL,jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ## Materiais de Aula :books: :mortar_board:
 
