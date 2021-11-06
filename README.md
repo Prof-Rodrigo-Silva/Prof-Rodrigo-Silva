@@ -7,6 +7,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&layout=compact&langs_count=7&theme=radical"/>
   </div>
   
+  ##
+  - :heart: Techs:
   <div style="display: inline_block"><br>
   <img align="center" alt="R-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="R-Sprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -21,14 +23,11 @@
 
   ##
 
-  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino.
-Tenho interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, algoritmos genéticos, ensino de programação, desenvolvimento Android e mapeamentos.
-- :heart: Techs: R, Java, Dart, Android, Flutter, Data Mining, Mapeamentos entre outras.
+  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
 - :hammer: Trabalhando no desenvolvimento de um pacote R com dados geoespaciais do município de Bagé-RS.
 - :hammer: Trabalhando no desenvolvimento de um aplicativo de Relatório Diário de Obras(RDO) para o município de Bagé-RS.
 - :hammer: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
 - :hammer: Aulas Técnico - Algoritmos I, Projeto de Software. 
-- :bulb: JAVA, R, Dart, Flutter.
 - :mailbox: Onde me encontrar:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prof-Rodrigo-Silva)](https://github.com/Prof-Rodrigo-Silva)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
@@ -73,3 +72,7 @@ Tenho interesse na área de aprendizagem de máquina, mineração de dados, rede
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
 - [Aulas WEKA](https://youtu.be/xtCuV92YdG4)
 - [Aulas Filtros do WEKA](https://youtu.be/y0jUFFBPSos)
+
+<div>
+  ![Snake animation](https://github.com/Prof-Rodrigo-Silva/Prof-Rodrigo-Silva/blob/output/github-contribution-grid-snake.svg)
+ </div>
