@@ -24,16 +24,16 @@
   ##
 
   Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
-- :hammer: Trabalhando no desenvolvimento de um pacote R com dados geoespaciais do município de Bagé-RS.
-- :hammer: Trabalhando no desenvolvimento de um aplicativo de Relatório Diário de Obras(RDO) para o município de Bagé-RS.
 - :hammer: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
 - :hammer: Aulas Técnico - Algoritmos I, Projeto de Software.
 ##
 - :mailbox: Onde me encontrar:
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Prof-Rodrigo-Silva)](https://github.com/Prof-Rodrigo-Silva)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:profrodrigorosadasilva@gmail.com)](mailto:profrodrigorosadasilva@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/anadehavaiana)](https://www.instagram.com/r_r_s_08/)
+<div> 
+  <a href="https://www.youtube.com/channel/UChY-anu0SmRJ3XU_q2oipLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/r_r_s_08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:profrodrigorosadasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/rodrigo-silva-472928138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## Materiais de Aula :books: :mortar_board:
 
