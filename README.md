@@ -3,7 +3,6 @@
 ## Olá 👋, sou o Rodrigo!
 
   <div align="center">
-    <a href="https://github.com/Prof-Rodrigo-Silva">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prof-Rodrigo-Silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&layout=compact&langs_count=7&theme=radical"/>
   </div>
@@ -11,6 +10,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="R-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" alt="R-Sprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img align="center" alt="R-Android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
   <img align="center" alt="R-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="R-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
