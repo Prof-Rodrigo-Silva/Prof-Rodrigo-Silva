@@ -48,9 +48,9 @@
 - [Exercícios Lista 1](https://github.com/Prof-Rodrigo-Silva/ListaExercicios1POO)
 - [Exercícios Lista 2](https://github.com/Prof-Rodrigo-Silva/ListaExercicios2POO)
 - [Exercícios Lista 3 - Em Breve](https://github.com/Prof-Rodrigo-Silva/ListaExercicios3POO)
-- [Entrega 1]
-- [Entrega 2]
-- [Entrega 3]
+- [Entrega 1](https://github.com/Prof-Rodrigo-Silva/entrega1POO)
+- [Entrega 2](https://github.com/Prof-Rodrigo-Silva/entrega2POO)
+- [Entrega 3](https://github.com/Prof-Rodrigo-Silva/entrega3POO)
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
