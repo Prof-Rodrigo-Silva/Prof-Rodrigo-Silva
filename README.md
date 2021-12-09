@@ -42,11 +42,11 @@
 - [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasAlgoritmosI)
 
 ### Notas de Aulas - POO com JAVA
-- [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
+- [Códigos de Aulas Básico POO](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
 - [Códigos de Aulas JDBC e Manipulação de Arquivos](https://github.com/Prof-Rodrigo-Silva/codigosAulasJDBC)
 - [Códigos de Aulas Dates / Calendar](https://github.com/Prof-Rodrigo-Silva/codigosAulaPOODate)
 - [Códigos de Aulas Threads](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOOThreads)
-- [Códigos de Aulas JavaMail - Atualizando...](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOOJavaMail)
+- [Códigos de Aulas JavaMail](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOOJavaMail)
 - [Exercícios Lista 1](https://github.com/Prof-Rodrigo-Silva/ListaExercicios1POO)
 - [Exercícios Lista 2](https://github.com/Prof-Rodrigo-Silva/ListaExercicios2POO)
 - [Exercícios Lista 3 - Em Breve](https://github.com/Prof-Rodrigo-Silva/ListaExercicios3POO)
