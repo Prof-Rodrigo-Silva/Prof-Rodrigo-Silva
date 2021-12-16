@@ -59,7 +59,8 @@
 - [Aulas](https://youtu.be/ECxkjvIVbkc)
 
 ### Exercícios com Portugol Studio
-- [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio)
+- [Lista Exercícios 1](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios1)
+- [Lista Exercícios 2 - Em breve](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
 - [Aulas](https://youtu.be/rAbaMaoBURc)
 
 ### Exercícios Ambiante Gráfico com Portugol Studio
