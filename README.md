@@ -60,7 +60,7 @@
 
 ### Exercícios com Portugol Studio
 - [Lista Exercícios 1](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios1)
-- [Lista Exercícios 2 - Em breve](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
+- [Lista Exercícios 2](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
 - [Aulas](https://youtu.be/rAbaMaoBURc)
 
 ### Exercícios Ambiante Gráfico com Portugol Studio
