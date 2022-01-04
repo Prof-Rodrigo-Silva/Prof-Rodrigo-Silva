@@ -43,6 +43,7 @@
 - [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasAlgoritmosI)
 
 #### Turma 2/2021
+- [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/SlidesAulasAlgoritmosI22021)
 - [Códigos de Aulas](https://github.com/Prof-Rodrigo-Silva/codigosAulasAlgoritmosI22021)
 
 ### Notas de Aulas - POO com JAVA
