@@ -56,6 +56,7 @@
 - [Entrega 3](https://github.com/Prof-Rodrigo-Silva/entrega3POO)
 
 #### Turma 2/2021
+-[Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes2-2021)
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
