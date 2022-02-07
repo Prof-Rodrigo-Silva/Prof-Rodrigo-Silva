@@ -65,6 +65,7 @@
 - [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio2-2021)
 - [Códigos de Aula POO](https://github.com/Prof-Rodrigo-Silva/https-github.com-Prof-Rodrigo-Silva-codigosAulasPOO22021)
 - [Exercício 1](https://github.com/Prof-Rodrigo-Silva/pooex120222)
+- [Exercício 2](https://github.com/Prof-Rodrigo-Silva/pooex220222)
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
