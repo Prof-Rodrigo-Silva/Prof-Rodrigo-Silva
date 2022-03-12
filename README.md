@@ -70,7 +70,7 @@
 - [Exercício 6](https://github.com/Prof-Rodrigo-Silva/pooex62022)
 - [Exercício 7](https://github.com/Prof-Rodrigo-Silva/pooex72022)
 - [Exercício 8](https://github.com/Prof-Rodrigo-Silva/pooex82022)
-- [Exercício 9 - Em Breve]
+- [Exercício 9](https://github.com/Prof-Rodrigo-Silva/pooex92022)
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
