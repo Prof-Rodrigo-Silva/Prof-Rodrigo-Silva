@@ -62,6 +62,7 @@
 #### Turma 2/2021
 - [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes2-2021)
 - [Códigos de Aula POO](https://github.com/Prof-Rodrigo-Silva/https-github.com-Prof-Rodrigo-Silva-codigosAulasPOO22021)
+- [Códigos de Aulas JDBC](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO22021JDBC)
 - [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio2-2021)
 - [Exercício 1](https://github.com/Prof-Rodrigo-Silva/pooex120222)
 - [Exercício 2](https://github.com/Prof-Rodrigo-Silva/pooex220222)
@@ -71,6 +72,7 @@
 - [Exercício 7](https://github.com/Prof-Rodrigo-Silva/pooex72022)
 - [Exercício 8](https://github.com/Prof-Rodrigo-Silva/pooex82022)
 - [Exercício 9](https://github.com/Prof-Rodrigo-Silva/pooex92022)
+- [Exercício 10 - EM BREVE]
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
