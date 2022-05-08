@@ -39,33 +39,6 @@
 ## Materiais de Aula :books: :mortar_board:
 
 ### Notas de Aulas - POO com JAVA
-#### Turma 1/2021
-- [Códigos de Aulas Básico POO](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO)
-- [Códigos de Aulas JDBC e Manipulação de Arquivos](https://github.com/Prof-Rodrigo-Silva/codigosAulasJDBC)
-- [Códigos de Aulas Dates / Calendar](https://github.com/Prof-Rodrigo-Silva/codigosAulaPOODate)
-- [Códigos de Aulas Threads](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOOThreads)
-- [Códigos de Aulas JavaMail](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOOJavaMail)
-- [Exercícios Lista 1](https://github.com/Prof-Rodrigo-Silva/ListaExercicios1POO)
-- [Exercícios Lista 2](https://github.com/Prof-Rodrigo-Silva/ListaExercicios2POO)
-- [Entrega 1](https://github.com/Prof-Rodrigo-Silva/entrega1POO)
-- [Entrega 2](https://github.com/Prof-Rodrigo-Silva/entrega2POO)
-- [Entrega 3](https://github.com/Prof-Rodrigo-Silva/entrega3POO)
-
-#### Turma 2/2021
-- [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes2-2021)
-- [Códigos de Aula POO](https://github.com/Prof-Rodrigo-Silva/https-github.com-Prof-Rodrigo-Silva-codigosAulasPOO22021)
-- [Códigos de Aula JDBC](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO22021JDBC)
-- [Códigos de Aula Datas](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO22021Date)
-- [Códigos de Aula Arquivos](https://github.com/Prof-Rodrigo-Silva/codigosAulasPOO22021Arquivos.git)
-- [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio2-2021)
-- [Exercício 1](https://github.com/Prof-Rodrigo-Silva/pooex120222)
-- [Exercício 2](https://github.com/Prof-Rodrigo-Silva/pooex220222)
-- [Exercício 3](https://github.com/Prof-Rodrigo-Silva/pooex320222)
-- [Exercício 5](https://github.com/Prof-Rodrigo-Silva/pooex52022)
-- [Exercício 6](https://github.com/Prof-Rodrigo-Silva/pooex62022)
-- [Exercício 7](https://github.com/Prof-Rodrigo-Silva/pooex72022)
-- [Exercício 8](https://github.com/Prof-Rodrigo-Silva/pooex82022)
-- [Exercício 9](https://github.com/Prof-Rodrigo-Silva/pooex92022)
 
 #### Turma 1/2022
 - [Slides das Aulas - EM BREVE]
