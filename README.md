@@ -38,6 +38,14 @@
 
 ## Materiais de Aula :books: :mortar_board:
 
+### Notas de Aulas - Visualização de Dados e Dashboards com R
+
+#### Turma 1/2022
+- [Slides das Aulas - EM BREVE]
+
+#### Turma 1/2022
+- [Slides das Aulas - EM BREVE]
+
 ### Notas de Aulas - POO com JAVA
 
 #### Turma 1/2022
