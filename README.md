@@ -43,7 +43,7 @@
 #### Turma 1/2022
 - [Slides das Aulas - EM BREVE]
 
-#### Turma 1/2022
+#### Turma 2/2022
 - [Slides das Aulas - EM BREVE]
 
 ### Notas de Aulas - POO com JAVA
@@ -51,6 +51,8 @@
 #### Turma 1/2022
 - [Slides das Aulas - EM BREVE]
 
+#### Turma 2/2022
+- [Slides das Aulas - EM BREVE]
 
 ### Curso Lógica de Progamação com Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
