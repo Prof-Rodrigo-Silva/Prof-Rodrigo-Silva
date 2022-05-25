@@ -49,7 +49,7 @@
 ### Notas de Aulas - POO com JAVA
 
 #### Turma 1/2022
-- [Slides das Aulas - EM BREVE]
+- [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes1-2022)
 
 #### Turma 2/2022
 - [Slides das Aulas - EM BREVE]
