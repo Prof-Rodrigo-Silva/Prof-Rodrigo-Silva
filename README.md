@@ -42,6 +42,8 @@
 
 #### Turma 1/2022
 - [Códigos das Aulas](https://github.com/Prof-Rodrigo-Silva/TEICodigos1-2022)
+- [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/TEIListasExercicio1-2022)
+- [Script Soluções](https://github.com/Prof-Rodrigo-Silva/TEIScriptSolucoes1-2022)
 
 #### Turma 2/2022
 - [Slides das Aulas - EM BREVE]
