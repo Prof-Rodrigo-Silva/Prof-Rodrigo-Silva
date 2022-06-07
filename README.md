@@ -54,6 +54,8 @@
 - [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio1-2022)
 - [Exercício 0](https://github.com/Prof-Rodrigo-Silva/POOExercicio0-12022)
 - [Exercício 1](https://github.com/Prof-Rodrigo-Silva/POOExercicio1-12022)
+- [Exercício 2.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.1-12022)
+- [Exercício 2.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.2-12022)
 
 #### Turma 2/2022
 - [Slides das Aulas - EM BREVE]
