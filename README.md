@@ -60,7 +60,7 @@
 - [Exercício 2.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.2-12022)
 - [Exercício 3.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.1-12022)
 - [Exercício 3.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.2-12022)
-- [Exercício 4.1 - EM BREVE]
+- [Exercício 4.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.1-12022)
 - [Exercício 4.2 - EM BREVE]
 
 #### Turma 2/2022
