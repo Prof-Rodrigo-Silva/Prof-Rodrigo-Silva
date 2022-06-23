@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/rodrigo-silva-472928138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-[![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138)]([https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/rodrigo-silva-472928138))
+[![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/RodrigoSilvaProgramming)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 
 ## Materiais de Aula :books: :mortar_board:
