@@ -24,11 +24,9 @@
   ##
 
 📫 Onde me encontrar:
-<div> 
-  <a href="https://www.instagram.com/r_r_s_08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:profrodrigorosadasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/R_R_Silva?style=social)](https://twitter.com/R_R_Silva)
+[![Youtube: rodrigorosadasilva](https://img.shields.io/youtube/channel/views/UChY-anu0SmRJ3XU_q2oipLw?label=YouTube&style=social)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 [![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/RodrigoSilvaProgramming)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 
