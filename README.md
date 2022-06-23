@@ -25,8 +25,9 @@
   ##
 
   Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
-- :hammer: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
-- :hammer: Aulas Técnico - Algoritmos I, Projeto de Software.
+- 🛠️: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
+- 🛠️ Aulas Técnico - Tópicos Especiais em Informática -(Visualização de dados, Mapas , Dashoboards)
+- ✖️ Aulas Técnico - Algoritmos I, Projeto de Software (Semestre Anterior).
 ##
 - :mailbox: Onde me encontrar:
 <div> 
