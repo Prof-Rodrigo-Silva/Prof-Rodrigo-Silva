@@ -1,6 +1,6 @@
 # 💻 Rodrigo Silva
 
-## Olá 👋, sejam bem vindos!
+## Hello 👋, Welcome!
   Official collaborator of the project [Portugol Studio](http://lite.acad.univali.br/portugol/), in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
 - 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I, Software Project Management.
 - 🛠️ Technical Classes - Special Topics in Informatics (Data Visualization, Maps, Dashboards).
@@ -35,28 +35,28 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
-📫: 
+- 📫: 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/R_R_Silva?style=social)](https://twitter.com/R_R_Silva)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/youtube/channel/views/UChY-anu0SmRJ3XU_q2oipLw?label=YouTube&style=social)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 [![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/r_r_s_08/)
 
-## Materiais de Aula 📖 📚 🎓
+## Class Materials 📖 📚 🎓
 
-### Notas de Aulas - Visualização de Dados e Dashboards com R
+### Class Notes - Data Visualization and Dashboards with R
 
-#### Turma 1/2022
+#### Class 1/2022
 - [Códigos das Aulas](https://github.com/Prof-Rodrigo-Silva/TEICodigos1-2022)
 - [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/TEIListasExercicio1-2022)
 - [Script Soluções](https://github.com/Prof-Rodrigo-Silva/TEIScriptSolucoes1-2022)
 
-#### Turma 2/2022
+#### Class 2/2022
 - [Slides das Aulas - EM BREVE]
 
-### Notas de Aulas - POO com JAVA
+### Class Notes - OOP with JAVA
 
-#### Turma 1/2022
+#### Class 1/2022
 - [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes1-2022)
 - [Códigos das Aulas](https://github.com/Prof-Rodrigo-Silva/POOCodigos1-2022)
 - [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio1-2022)
@@ -65,23 +65,23 @@
 - [Exercício 3.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.1-12022) - [Exercício 3.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.2-12022)
 - [Exercício 4.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.1-12022) - [Exercício 4.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.2-12022)
 
-#### Turma 2/2022
+#### Class 2/2022
 - [Slides das Aulas - EM BREVE]
 
-### Curso Lógica de Progamação com Portugol Studio
+### Programming Logic Course with Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
 - [Aulas](https://youtu.be/ECxkjvIVbkc)
 
-### Exercícios com Portugol Studio
+### Exercises with Portugol Studio
 - [Lista Exercícios 1](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios1)
 - [Lista Exercícios 2](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
 - [Aulas](https://youtu.be/rAbaMaoBURc)
 
-### Exercícios Ambiante Gráfico com Portugol Studio
+### Exercises Graphic Environment with Portugol Studio
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio-AmbienteGrafico)
 - [Aulas](https://youtu.be/l5nhQFM4F2I)
 
-### R (Muita Coisa :scream: )
+### R (A lot of things 😱 )
 - [Materiais](https://github.com/Prof-Rodrigo-Silva/ScriptR)
 - [Aulas R - Básico](https://youtu.be/854XZlr0VKI)
 - [Aulas R - Intermediários](https://youtu.be/gW-rWGq06d0)
