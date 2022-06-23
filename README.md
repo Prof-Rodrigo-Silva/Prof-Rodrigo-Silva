@@ -1,4 +1,4 @@
-# :computer: Rodrigo Silva
+# 💻 Rodrigo Silva
 
 ## Olá 👋, sejam bem vindos!
   Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
@@ -6,31 +6,27 @@
 - 🛠️ Aulas Técnico - Tópicos Especiais em Informática -(Visualização de dados, Mapas , Dashoboards)
 - ✖️ Aulas Técnico - Algoritmos I, Projeto de Software (Semestre Anterior).
  
-  ##
   ❤️ Techs:
-  <div style="display: inline_block"><br>
-  <img align="center" alt="R-Port" height="30" width="40" src="https://raw.githubusercontent.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio/master/unnamed.png" />
-  <img align="center" alt="R-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="R-Sprint" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="R-Android" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="R-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="center" alt="R-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="R-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
-  <img align="center" alt="R-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="R-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="center" alt="R-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
-</div>
 
-  ##
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
 
 📫 Onde me encontrar:
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/R_R_Silva?style=social)](https://twitter.com/R_R_Silva)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/youtube/channel/views/UChY-anu0SmRJ3XU_q2oipLw?label=YouTube&style=social)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 [![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
-[![Youtube: rodrigorosadasilva](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/RodrigoSilvaProgramming)](https://www.youtube.com/c/RodrigoSilvaProgramming)
-
-## Materiais de Aula :books: :mortar_board:
+## Materiais de Aula 📖 📚 🎓
 
 ### Notas de Aulas - Visualização de Dados e Dashboards com R
 
