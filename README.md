@@ -1,14 +1,13 @@
 # :computer: Rodrigo Silva
 
 ## Olá 👋, sejam bem vindos!
-
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prof-Rodrigo-Silva&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prof-Rodrigo-Silva&layout=compact&langs_count=7&theme=radical"/>
-  </div>
-  
+  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
+- 🛠️: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
+- 🛠️ Aulas Técnico - Tópicos Especiais em Informática -(Visualização de dados, Mapas , Dashoboards)
+- ✖️ Aulas Técnico - Algoritmos I, Projeto de Software (Semestre Anterior).
+ 
   ##
-  - :heart: Techs:
+  ❤️ Techs:
   <div style="display: inline_block"><br>
   <img align="center" alt="R-Port" height="30" width="40" src="https://raw.githubusercontent.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio/master/unnamed.png" />
   <img align="center" alt="R-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -24,18 +23,16 @@
 
   ##
 
-  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
-- 🛠️: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
-- 🛠️ Aulas Técnico - Tópicos Especiais em Informática -(Visualização de dados, Mapas , Dashoboards)
-- ✖️ Aulas Técnico - Algoritmos I, Projeto de Software (Semestre Anterior).
-##
-- :mailbox: Onde me encontrar:
+📫 Onde me encontrar:
 <div> 
   <a href="https://www.youtube.com/channel/UChY-anu0SmRJ3XU_q2oipLw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/r_r_s_08" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:profrodrigorosadasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rodrigo-silva-472928138" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+[![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138)]([https://www.linkedin.com/in/loiane/](https://www.linkedin.com/in/rodrigo-silva-472928138))
+[![Youtube: rodrigorosadasilva](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/c/RodrigoSilvaProgramming)](https://www.youtube.com/c/RodrigoSilvaProgramming)
 
 ## Materiais de Aula :books: :mortar_board:
 
