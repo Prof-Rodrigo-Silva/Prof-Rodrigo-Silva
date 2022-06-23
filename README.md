@@ -1,12 +1,12 @@
 # 💻 Rodrigo Silva
 
 ## Olá 👋, sejam bem vindos!
-  Colaborador oficial do projeto [Portugol Studio](http://lite.acad.univali.br/portugol/), na produção de materiais de ensino. Interesse na área de aprendizagem de máquina, mineração de dados, redes neurais artificiais, desenvolvimento mobile, ensino de programação e mapeamentos.
-- 🛠️: Aulas Graduação - POO com JAVA, Processo de Software, Modelagem de Sistemas I, Gerência de Projetos de Software.
-- 🛠️ Aulas Técnico - Tópicos Especiais em Informática -(Visualização de dados, Mapas , Dashoboards)
-- ✖️ Aulas Técnico - Algoritmos I, Projeto de Software (Semestre Anterior).
+  Official collaborator of the project [Portugol Studio](http://lite.acad.univali.br/portugol/), in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
+- 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I, Software Project Management.
+- 🛠️ Technical Classes - Special Topics in Informatics (Data Visualization, Maps, Dashboards).
+- ✖️ Technical Classes - Algorithms I, Software Project (Previous Semester).
  
-  ❤️ Techs:
+- ❤️ Techs:
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
@@ -35,8 +35,7 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat-square&logo=apache-tomcat&logoColor=black)
 
-
-Onde me encontrar 📫 
+📫: 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/R_R_Silva?style=social)](https://twitter.com/R_R_Silva)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/youtube/channel/views/UChY-anu0SmRJ3XU_q2oipLw?label=YouTube&style=social)](https://www.youtube.com/c/RodrigoSilvaProgramming)
