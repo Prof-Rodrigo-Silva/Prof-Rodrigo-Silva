@@ -48,53 +48,53 @@
 ### Class Notes - Data Visualization and Dashboards with R
 
 #### Class 1/2022
-- [Códigos das Aulas](https://github.com/Prof-Rodrigo-Silva/TEICodigos1-2022)
-- [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/TEIListasExercicio1-2022)
-- [Script Soluções](https://github.com/Prof-Rodrigo-Silva/TEIScriptSolucoes1-2022)
+- [Class Codes](https://github.com/Prof-Rodrigo-Silva/TEICodigos1-2022)
+- [Exercise Lists](https://github.com/Prof-Rodrigo-Silva/TEIListasExercicio1-2022)
+- [Solutions Script](https://github.com/Prof-Rodrigo-Silva/TEIScriptSolucoes1-2022)
 
 #### Class 2/2022
-- [Slides das Aulas - EM BREVE]
+- [Class Slides - COMING SOON]
 
 ### Class Notes - OOP with JAVA
 
 #### Class 1/2022
-- [Slides das Aulas](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes1-2022)
-- [Códigos das Aulas](https://github.com/Prof-Rodrigo-Silva/POOCodigos1-2022)
-- [Listas de Exercícios](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio1-2022)
-- [Exercício 0](https://github.com/Prof-Rodrigo-Silva/POOExercicio0-12022) - [Exercício 1](https://github.com/Prof-Rodrigo-Silva/POOExercicio1-12022)
-- [Exercício 2.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.1-12022) - [Exercício 2.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.2-12022)
-- [Exercício 3.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.1-12022) - [Exercício 3.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.2-12022)
-- [Exercício 4.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.1-12022) - [Exercício 4.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.2-12022)
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes1-2022)
+- [Class Code](https://github.com/Prof-Rodrigo-Silva/POOCodigos1-2022)
+- [Exercise Lists](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio1-2022)
+- [Exercise 0](https://github.com/Prof-Rodrigo-Silva/POOExercicio0-12022) - [Exercise 1](https://github.com/Prof-Rodrigo-Silva/POOExercicio1-12022)
+- [Exercise 2.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.1-12022) - [Exercise 2.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.2-12022)
+- [Exercise 3.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.1-12022) - [Exercise 3.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.2-12022)
+- [Exercise 4.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.1-12022) - [Exercise 4.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.2-12022)
 
 #### Class 2/2022
-- [Slides das Aulas - EM BREVE]
+- [Class Slides - COMING SOON]
 
 ### Programming Logic Course with Portugol Studio
-- [Materiais](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
-- [Aulas](https://youtu.be/ECxkjvIVbkc)
+- [Materials](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
+- [Class](https://youtu.be/ECxkjvIVbkc)
 
 ### Exercises with Portugol Studio
-- [Lista Exercícios 1](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios1)
-- [Lista Exercícios 2](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
-- [Aulas](https://youtu.be/rAbaMaoBURc)
+- [Exercises List 1](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios1)
+- [Exercises List 2](https://github.com/Prof-Rodrigo-Silva/PortugolStudioListaExercicios2)
+- [Class](https://youtu.be/rAbaMaoBURc)
 
 ### Exercises Graphic Environment with Portugol Studio
-- [Materiais](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio-AmbienteGrafico)
-- [Aulas](https://youtu.be/l5nhQFM4F2I)
+- [Materials](https://github.com/Prof-Rodrigo-Silva/Atividade-PortugolStudio-AmbienteGrafico)
+- [Class](https://youtu.be/l5nhQFM4F2I)
 
 ### R (A lot of things 😱 )
-- [Materiais](https://github.com/Prof-Rodrigo-Silva/ScriptR)
-- [Aulas R - Básico](https://youtu.be/854XZlr0VKI)
-- [Aulas R - Intermediários](https://youtu.be/gW-rWGq06d0)
-- [Aulas R - Avançado](https://youtu.be/PSsP1TSKmaA)
-- [Aulas R - Joins](https://youtu.be/iMdHyXaFtq4)
-- [Aulas R - Básico de Gráficos](https://youtu.be/RmpocgKpSjU)
-- [Aulas R - Básico de Mapas](https://youtu.be/cYqn5kaN_GI)
-- [Aulas R - geobr()](https://youtu.be/BZ0NQrq3GV4)
+- [Materials](https://github.com/Prof-Rodrigo-Silva/ScriptR)
+- [Class R - Básico](https://youtu.be/854XZlr0VKI)
+- [Class R - Intermediários](https://youtu.be/gW-rWGq06d0)
+- [Class R - Avançado](https://youtu.be/PSsP1TSKmaA)
+- [Class R - Joins](https://youtu.be/iMdHyXaFtq4)
+- [Class R - Básico de Gráficos](https://youtu.be/RmpocgKpSjU)
+- [Class R - Básico de Mapas](https://youtu.be/cYqn5kaN_GI)
+- [Class R - geobr()](https://youtu.be/BZ0NQrq3GV4)
 
 ### WEKA
-- [Materiais](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
-- [Aulas WEKA](https://youtu.be/xtCuV92YdG4)
-- [Aulas Filtros do WEKA](https://youtu.be/y0jUFFBPSos)
+- [Materials](https://github.com/Prof-Rodrigo-Silva/WEKA-e-Arquivos)
+- [Class WEKA](https://youtu.be/xtCuV92YdG4)
+- [Class Filters of WEKA](https://youtu.be/y0jUFFBPSos)
 ##
   ![Snake animation](https://github.com/Prof-Rodrigo-Silva/Prof-Rodrigo-Silva/blob/output/github-contribution-grid-snake.svg)
