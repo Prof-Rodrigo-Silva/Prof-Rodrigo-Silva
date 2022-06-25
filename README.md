@@ -2,7 +2,7 @@
 
 ## Hello 👋, Welcome!
   Official collaborator of the project [Portugol Studio](http://lite.acad.univali.br/portugol/), in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
-- 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I, Software Project Management.
+- 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I (UML), Software Project Management.
 - 🛠️ Technical Classes - Special Topics in Informatics (Data Visualization, Maps, Dashboards).
 - ✖️ Technical Classes - Algorithms I, Software Project (Previous Semester).
  
