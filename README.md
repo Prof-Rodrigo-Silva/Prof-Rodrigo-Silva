@@ -3,7 +3,6 @@
 ## Hello 👋, Welcome!
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prof-Rodrigo_Silva.Prof-Rodrigo_Silva)
- [![Github](https://img.shields.io/github/followers/prof-rodrigo-silva?label=Follow&style=social)](https://github.com/Prof-Rodrigo-Silva)
  
   Official collaborator of the project [Portugol Studio](http://lite.acad.univali.br/portugol/), in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
 - 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I (UML), Software Project Management.
