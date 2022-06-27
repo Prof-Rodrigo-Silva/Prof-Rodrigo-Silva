@@ -44,8 +44,8 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Prof_R_R_S?style=social)](https://twitter.com/Prof_R_R_S)
 [![Youtube: rodrigorosadasilva](https://img.shields.io/youtube/channel/views/UChY-anu0SmRJ3XU_q2oipLw?label=YouTube&style=social)](https://www.youtube.com/c/RodrigoSilvaProgramming)
-[![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/r_r_s_08/)
+[![Linkedin: rodrigorosadasilva](https://img.shields.io/badge/-RodrigoSilva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-silva-472928138/)](https://www.linkedin.com/in/rodrigo-silva-472928138/)
+[![Instagram](https://img.shields.io/badge/RodrigoSilva-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/r_r_s_08/)
 
 ## Class Materials 📖 📚 🎓
 
