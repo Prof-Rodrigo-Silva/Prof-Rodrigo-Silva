@@ -102,5 +102,9 @@
 
 ### PROJECT GEOBAGE
 - [FORK GEOBAGE](https://github.com/Prof-Rodrigo-Silva/geobage-1)
+
+### PROJECT GEOINFOBAGE
+- [FORK GEOINFOBAGE](https://github.com/Prof-Rodrigo-Silva/geoinfobage)
+
 ##
   ![Snake animation](https://github.com/Prof-Rodrigo-Silva/Prof-Rodrigo-Silva/blob/output/github-contribution-grid-snake.svg)
