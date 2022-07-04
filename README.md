@@ -69,6 +69,7 @@
 - [Exercise 3.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.1-12022) - [Exercise 3.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio3.2-12022)
 - [Exercise 4.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.1-12022) - [Exercise 4.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio4.2-12022)
 - [Exercise 5](https://github.com/Prof-Rodrigo-Silva/POOExercicio5-12022)
+- [Exercise 6](https://github.com/Prof-Rodrigo-Silva/POOExercicio6-12022)
 #### Class 2/2022
 - [Class Slides - COMING SOON]
 
