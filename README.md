@@ -106,9 +106,6 @@
 
 ## FORK'S
 
-### PORTUGOL STUDIO
-- [FORK PS](https://github.com/Prof-Rodrigo-Silva/Portugol-Studio)
-
 ### PROJECT GEOBAGE - TCC Jenefer
 - [FORK GEOBAGE](https://github.com/Prof-Rodrigo-Silva/geobage-1)
 
