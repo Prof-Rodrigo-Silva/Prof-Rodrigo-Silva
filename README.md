@@ -48,16 +48,6 @@
 
 ## Class Materials 📖 📚 🎓
 
-### Class Notes - Data Visualization and Dashboards with R
-
-#### Class 1/2022
-- [Class Codes](https://github.com/Prof-Rodrigo-Silva/TEICodigos1-2022)
-- [Exercise Lists](https://github.com/Prof-Rodrigo-Silva/TEIListasExercicio1-2022)
-- [Solutions Script](https://github.com/Prof-Rodrigo-Silva/TEIScriptSolucoes1-2022)
-
-#### Class 2/2022
-- [Class Slides - COMING SOON]
-
 ### Class Notes - OOP with JAVA
 
 #### Class 1/2022
