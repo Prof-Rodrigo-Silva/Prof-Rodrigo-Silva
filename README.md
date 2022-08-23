@@ -64,7 +64,7 @@
 - [Exercise 10](https://github.com/Prof-Rodrigo-Silva/POOExercicio10-12022) - [Exercise 11](https://github.com/Prof-Rodrigo-Silva/POOExercicio11-12022)
 - [Exercise 12](https://github.com/Prof-Rodrigo-Silva/POOExercicio12-12022) - [Exercise 13](https://github.com/Prof-Rodrigo-Silva/POOExercicio13-12022)
 - [Exercise 14](https://github.com/Prof-Rodrigo-Silva/POOExercicio14-12022) - [Exercise 15.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.1-12022)
-- [Exercise 15.2 COMING SOON] - [Exercise 15.3 COMING SOON]
+- [Exercise 15.2 COMING SOON] - [Exercise 15.3](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.3-12022)
 - [Exercise 15.4 COMING SOON]
 
 ### Programming Logic Course with Portugol Studio
