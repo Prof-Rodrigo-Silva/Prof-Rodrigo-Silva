@@ -54,6 +54,7 @@
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/POOApresentacoes1-2022)
 - [Class Code](https://github.com/Prof-Rodrigo-Silva/POOCodigos1-2022)
 - [Class Code WindowBuilder](https://github.com/Prof-Rodrigo-Silva/poo-projetowindowbuilder12022)
+- [Class Code Threads](https://github.com/Prof-Rodrigo-Silva/poo-aulasthread)
 - [Exercise Lists](https://github.com/Prof-Rodrigo-Silva/POOListasExercicio1-2022)
 - [Exercise 0](https://github.com/Prof-Rodrigo-Silva/POOExercicio0-12022) - [Exercise 1](https://github.com/Prof-Rodrigo-Silva/POOExercicio1-12022)
 - [Exercise 2.1](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.1-12022) - [Exercise 2.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio2.2-12022)
