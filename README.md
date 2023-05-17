@@ -101,17 +101,17 @@
 ### PROJECT GEOBAGE - TCC Jenefer
 - [FORK GEOBAGE](https://github.com/Prof-Rodrigo-Silva/geobage-1)
 
+### PROJECT GEOINFOBAGE - TCC Luísa
+- [FORK GEOINFOBAGE](https://github.com/Prof-Rodrigo-Silva/geoinfobage)
+
+### PROJECT JOGAQUI - TCC Yúri
+- [JogAquiApp](https://github.com/Prof-Rodrigo-Silva/JogAquiApp)
+
 ### PROJETC RBAGE
 - [FORK RBAGE](https://github.com/Prof-Rodrigo-Silva/rBage)
 
-### PROJECT GEOINFOBAGE
-- [FORK GEOINFOBAGE](https://github.com/Prof-Rodrigo-Silva/geoinfobage)
-
 ### PROJECT MAPS GEOJSON
 - [FORK FILESGEOJSONGEOBAGE](https://github.com/Prof-Rodrigo-Silva/filesGeoJSONgeobage)
-
-### TCC Yúri
-- [JogAquiApp](https://github.com/Prof-Rodrigo-Silva/JogAquiApp)
 
 ### TCC Eduardo
 - [LaughTale](https://github.com/Prof-Rodrigo-Silva/LaughTale)
