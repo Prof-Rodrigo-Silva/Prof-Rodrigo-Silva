@@ -68,6 +68,11 @@
 - [Exercise 15.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.2-12022) - [Exercise 15.3](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.3-12022)
 - [Exercise 15.4](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.4-12022)
 
+### Class Notes - Operating Systems
+#### Class 2/2025
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva)
+- [Exercise 07](https://github.com/Prof-Rodrigo-Silva)
+
 ### Programming Logic Course with Portugol Studio
 - [Materials](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
 - [Class](https://youtu.be/ECxkjvIVbkc)
