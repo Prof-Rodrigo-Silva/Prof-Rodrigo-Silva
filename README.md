@@ -77,6 +77,11 @@
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva)
 - [Exercise 07](https://github.com/Prof-Rodrigo-Silva/SOExercicio07-02-2025)
 
+### Class Notes - Data mining
+#### Classa 2/2025
+
+
+
 ### Programming Logic Course with Portugol Studio
 - [Materials](https://github.com/Prof-Rodrigo-Silva/cursoLogicaDeProgramacaoComPortugolStudio)
 - [Class](https://youtu.be/ECxkjvIVbkc)
