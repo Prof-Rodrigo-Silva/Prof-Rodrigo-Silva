@@ -79,7 +79,7 @@
 
 ### Class Notes - Data mining
 #### Classa 2/2025
-
+- [Materials](https://github.com/Prof-Rodrigo-Silva/datamining22025)
 
 
 ### Programming Logic Course with Portugol Studio
