@@ -75,7 +75,12 @@
 ### Class Notes - Operating Systems
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/OperatingSystems22025)
-- [Exercise 07](https://github.com/Prof-Rodrigo-Silva/SOExercicio07-02-2025)
+- [Exercise 07]
+
+### Class Notes - Sofftware Architecture
+#### Class 2/2025
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareArchitecture22025)
+- [Exercise 07]
 
 ### Class Notes - Data mining
 #### Classa 2/2025
