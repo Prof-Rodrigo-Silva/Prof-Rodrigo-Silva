@@ -75,15 +75,17 @@
 ### Class Notes - Operating Systems
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/OperatingSystems22025)
-- [Exercise 07]
 
 ### Class Notes - Software Architecture
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareArchitecture22025)
-- [Exercise 07]
+
+### Class Notes - Software Interface Design
+#### Class 2/2025
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025)
 
 ### Class Notes - Data mining
-#### Classa 2/2025
+#### Class 2/2025
 - [Materials](https://github.com/Prof-Rodrigo-Silva/datamining22025)
 
 
