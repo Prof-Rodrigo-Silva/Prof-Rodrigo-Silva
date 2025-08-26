@@ -83,7 +83,7 @@
 ### Class Notes - Software Interface Design
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025)
-- [Exercises] (https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025Exercises)
+- [Exercises](https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025Exercises)
 ### Class Notes - Data mining
 #### Class 2/2025
 - [Materials](https://github.com/Prof-Rodrigo-Silva/datamining22025)
