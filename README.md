@@ -70,7 +70,7 @@
 
 ### Class Notes  - Extension in Computing
 ### Class 2/2025
--[Class Slides](https://github.com/Prof-Rodrigo-Silva/ExtensioninComputing22025)
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva/ExtensioninComputing22025)
 
 ### Class Notes - Applied Computing I
 #### Class 2/2025
