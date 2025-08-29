@@ -79,6 +79,7 @@
 ### Class Notes - Operating Systems
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/OperatingSystems22025)
+- [Exercises](https://github.com/Prof-Rodrigo-Silva/OperatingSystemsExercises22025)
 
 ### Class Notes - Software Architecture
 #### Class 2/2025
