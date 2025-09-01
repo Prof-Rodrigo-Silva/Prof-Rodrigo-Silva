@@ -84,6 +84,7 @@
 ### Class Notes - Software Architecture
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareArchitecture22025)
+- [Exercises](https://github.com/Prof-Rodrigo-Silva/SoftwareArchitecture22025Exercises)
 
 ### Class Notes - Software Interface Design
 #### Class 2/2025
