@@ -60,6 +60,10 @@
 - [Exercise 15.2](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.2-12022) - [Exercise 15.3](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.3-12022)
 - [Exercise 15.4](https://github.com/Prof-Rodrigo-Silva/POOExercicio15.4-12022)
 
+### Class Notes  - Software Analysis
+#### Class 2/2025
+- [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareAnalysis22025)
+
 ### Class Notes  - Extension in Computing
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/ExtensioninComputing22025)
@@ -82,6 +86,7 @@
 #### Class 2/2025
 - [Class Slides](https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025)
 - [Exercises](https://github.com/Prof-Rodrigo-Silva/SoftwareInterfaceDesign22025Exercises)
+
 ### Class Notes - Data mining
 #### Class 2/2025
 - [Materials](https://github.com/Prof-Rodrigo-Silva/datamining22025)
