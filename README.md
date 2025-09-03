@@ -90,6 +90,7 @@
 ### Class Notes - Data mining
 #### Class 2/2025
 - [Materials](https://github.com/Prof-Rodrigo-Silva/datamining22025)
+- [Files Format ARFF](https://github.com/Prof-Rodrigo-Silva/filesARFF)
 
 
 ### Programming Logic Course with Portugol Studio
