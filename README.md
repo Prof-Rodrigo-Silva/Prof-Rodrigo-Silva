@@ -5,9 +5,9 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Prof-Rodrigo_Silva.Prof-Rodrigo_Silva)
  
   Official collaborator of the project [Portugol Studio](http://lite.acad.univali.br/portugol/), in the production of teaching materials. Interest in data mining, artificial neural networks, mobile development, teaching programming and mapping.
-- 🛠️ Graduation Classes - OOP with JAVA, Software Process, Systems Modeling I (UML), Software Project Management.
-- 🛠️ Technical Classes - Special Topics in Informatics (Data Visualization, Maps, Dashboards).
-- ✖️ Technical Classes - Algorithms I, Software Project (Previous Semester).
+- 🛠️ Graduation Classes 2020/2022 - OOP with JAVA, Software Process, Systems Modeling I (UML), Software Project Management.
+- 🛠️ Technical Classes 2020/2022 - Special Topics in Informatics (Data Visualization, Maps, Dashboards), Algorithms I, Software Project.
+- 🛠️ Graduation Classes 2025... - Software Analysis, Extension in Computing, Applied Computing I, Applied Computing I, Software Architecture, Software Interface Design, Data mining
  
 - ❤️ Techs:
 
@@ -16,11 +16,7 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Tor](https://img.shields.io/badge/Tor-7D4698?style=flat-square&logo=Tor-Browser&logoColor=white)
@@ -29,7 +25,6 @@
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=flat-square&logo=Overleaf&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
 - 📫: 
 
